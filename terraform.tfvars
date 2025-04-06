@@ -1,0 +1,1 @@
+ami_id = "ami-084568db4383264d4"  # Use a recent Ubuntu AMI for your region
